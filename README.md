@@ -1,5 +1,6 @@
 ## About Me
 Ever since a kid, I've always been fascinated with problem-solving and critical thinking. My senior year of high school, I gave computer science a try and became very interested in it. Currently, I'm majoring in computer science and business administration in hopes of pursuing a career in tech consulting or venturing out to the distant lands of California in hopes of developing a start-up. Additionally, I like to watch movies. Specifically, began my movie journey with cool films like *American Psycho* (2000) and *Fight Club* (1999). Here's my current favorite movie photo:
+
 ![Brad Pitt from Fight Club](https://m.media-amazon.com/images/M/MV5BMTMzNDU3NDkwMF5BMl5BanBnXkFtZTYwMDc1Mzc3._V1_.jpg)
 
 ## Skills
