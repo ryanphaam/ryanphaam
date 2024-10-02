@@ -10,6 +10,6 @@ Good communicator, leader, and problem-solver. At the end of the day, these are 
 I've learned the basics of object oriented programming in my time at UNC-Chapel Hill. With classes like COMP 110 and COMP 210 to teach me the foundations of both Python and Java, I have a good understanding of object oriented programming and general coding knowledge. Additionally, I'm taking COMP 290 which is helping me learn the tools associated with software engineering such as Docker and Git. Shoutout to the CS Department, you guys are the best!
 
 ### Tools and Programming Languages
-**Coding Languages:** Python (Advanced), Java (Intermediate), and R (Novice)
-**Tools and IDE:** Excel, DevOps, PowerBI, Git, Docker, Tableau
+**Coding Languages:** Python (Advanced), Java (Intermediate), and R (Novice) \
+**Tools and IDE:** Excel, DevOps, PowerBI, Git, Docker, Tableau \
 **Technologies:**	GitHub, HTML, CSS, Bootstrap
